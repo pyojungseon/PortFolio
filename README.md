@@ -17,4 +17,4 @@
 
 #### Skill Set 
 
-#### Java8 / SpringFramework 4.0 / Apache 7.0(NAS) / Oracle
+#### Java8 / SpringFramework 4.0 / Apache 7.0(NAS) / Maria DB 10.0(NAS)
