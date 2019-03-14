@@ -11,9 +11,13 @@
 
 #### http://suehig.synology.me:7070
 
+### Online Judge LeetCode Solve
+
+### https://github.com/pyojungseon/OnlineJudge
+
 ### Project List 
 
-### [LuckOfToday]
+### [LuckOfToday] https://github.com/pyojungseon/LuckOfToday
 
 #### Skill Set 
 
