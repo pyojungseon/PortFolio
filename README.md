@@ -22,3 +22,9 @@
 #### Skill Set 
 
 #### Java8 / SpringFramework 4.0 / MyBatis / Apache 7.0(NAS) / Maria DB 10.0(NAS)
+
+### [RandomGroupApi] https://github.com/pyojungseon/RandomGroupApi
+
+#### Skill Set 
+
+#### Java8 / SpringFramework 4.0 / RESTFul / MyBatis / Apache 7.0(NAS) / Maria DB 10.0(NAS)
