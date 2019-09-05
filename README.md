@@ -1,11 +1,11 @@
 # PJS PortFolio
 ## PyoJungseon
 
-#### Java Back-End Server Developer
+#### Java / Node.js Back-End Server Developer
 
-#### WooriFIS Global Development Department Channel Team
+#### Solidware Software Engineering Team
 
-#### suehig@naver.com / suehigs@gmail.com / suehig@woorifis.com(blocked)
+#### suehig@naver.com / suehigs@gmail.com / sunny@solidware.io
 
 #### https://github.com/pyojungseon/PortFolio
 
@@ -26,5 +26,10 @@
 ### [RandomGroupApi] https://github.com/pyojungseon/RandomGroupApi
 
 #### Skill Set 
+
+#### Java8 / SpringFramework 4.0 / RESTFul / MyBatis / Apache 7.0(NAS) / Maria DB 10.0(NAS)
+
+### [Auto ML Modeling Adjust Project] https://github.com/pyojungseon/SolidWareProject
+  #### 1. prediction function for Titanic survivors
 
 #### Java8 / SpringFramework 4.0 / RESTFul / MyBatis / Apache 7.0(NAS) / Maria DB 10.0(NAS)
